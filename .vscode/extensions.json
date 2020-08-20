@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "mgmcdermott.vscode-language-babel",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "stylelint.vscode-stylelint",
+    "tyriar.sort-lines",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "donjayamanne.githistory"
+  ]
+}
